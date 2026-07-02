@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 🔗 Streamlit App:
-https://your-app-name.streamlit.app
+https://student-performance-prediction-gvjtjnnqo8rmhe4viudjl5.streamlit.app/
 
 ## 📂 GitHub Repository
 
